@@ -1,7 +1,7 @@
 # rdb-node
 NPM Module (usage : require('rdb-node') - for my repl-database shit)
 
-
+discord: https://discord.gg/vZtkJYxe
 ```const rdb = require('rdb-node')
 const db = new rdb("https://db-60.eqkksny7c7vru5h.repl.co")
 
